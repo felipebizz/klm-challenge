@@ -1,0 +1,12 @@
+#External configuration
+
+server:
+  port: 9000
+  contextPath: /travel
+
+
+travel-search-api:
+  url: "http://localhost:8080"
+  auth:
+    username: "travel-api-client"
+    password: "pwd"
