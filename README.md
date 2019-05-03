@@ -1,6 +1,6 @@
 # klm-challenge
 
-#### Java Project that access another API using athentication and return informations about flights.
+#### Java Project that access another API using authentication and return information about flights.
 
 In this page a customer of the site could do the following:
   * Be able to select an origin.
